@@ -1,0 +1,5 @@
+venv_cuda/
+__pycache__/
+models/
+*.gguf
+.streamlit/
